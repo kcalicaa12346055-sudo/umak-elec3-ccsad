@@ -12,24 +12,25 @@ How to use this template:
 
 ## About us
 
-- Group number: <answer>
-- Section: <answer>
-- Group IAM user: <answer>
+- Group number: 1
+- Section: IV-CCSAD
+- Group IAM user: AURELIUS
 - Bucket name: <answer>
 - Website endpoint: <answer>
 
 ## Screenshots
 
-![Static website hosting with the endpoint](hosting.png)
+![Static website hosting with the endpoint]![alt text](image-2.png)
 
-![Saved bucket policy](policy.png)
+![Saved bucket policy]![alt text](image-1.png)
 
-![Our page open in the browser](site.png)
+![Our page open in the browser]![alt text](image-3.png)
 
 ## Contribution
 
 | GitHub username | What this groupmate did |
 | --- | --- |
-| <answer> | <answer> |
-| <answer> | <answer> |
-| <answer> | <answer> |
+| NathanielCamachoUmak | Created the webpage |
+| kcalicaa12346055-sudo | Planned the webpage and Tested |
+| madeliiine | Provided the design motifs |
+| Flaaa01 | Wrote documentation and tested features |
